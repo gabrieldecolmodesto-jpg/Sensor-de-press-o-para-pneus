@@ -9,4 +9,4 @@ kit barra de pinos - cabos,
 Software Necessario
 Microsoft Visual Studio Code, 
 ESP IDF 5.3.5, 
-Driver do respectivo ESP32, 
+Driver do respectivo ESP32
