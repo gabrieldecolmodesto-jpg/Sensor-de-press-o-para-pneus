@@ -1,4 +1,4 @@
-Items Necessarios:
+* Items Necessarios:
 
 ESP32 c/ display oled
 
@@ -13,7 +13,7 @@ protoboard 400 pontos
 kit barra de pinos - cabos
 
 
-Software Necessario
+* Software Necessario
 
 Microsoft Visual Studio Code
 
@@ -23,7 +23,7 @@ Driver do respectivo ESP32
 
 FreeRTOS
 
-Instruções
+* Instruções
 
 Monte o projeto conforme a imagem "Montagem.png" anexada
 
