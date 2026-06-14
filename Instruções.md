@@ -1,6 +1,9 @@
 Items Necessarios:
+
 ESP32 c/ display oled
-Sensor De pressão SMP3011 - 500kpa, 
+
+Sensor De pressão SMP3011 - 500kpa,
+
 Sensor barometria BMP260, 
 cabo micro USB VS, 
 protoboard 400 pontos, 
